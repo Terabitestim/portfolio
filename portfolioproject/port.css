@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#description{
+    width: 460px;
+    height: 38x;
+}
+
+#picture{
+    width: 40%;
+    border: 4px 4px 4px 4px solid #c0c0c0; 
+    display: inline-block;
+}
+
+#container{
+    width: 950px auto;
+    height: 846px;
+    background: radial-gradient(#6f5964,#47343c);
+}
